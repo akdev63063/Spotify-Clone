@@ -1,10 +1,10 @@
 # Spotify-Clone
-Spotify Clone is a responsive music streaming web application that replicates the core features and user interface of Spotify. The project includes music playback controls, playlists, a modern design, and a seamless user experience using front-end web technologies.
-Spotify Clone
+# Spotify Clone is a responsive music streaming web application that replicates the core features and user interface of Spotify. The project includes music playback controls, playlists, a modern design, and a seamless user experience using front-end web technologies.
+# Spotify Clone
 
-A modern and responsive Spotify Clone built using HTML, CSS, and JavaScript. This project recreates the look and feel of Spotify, allowing users to browse songs, play music, control playback, and enjoy an intuitive music streaming interface.
+# A modern and responsive Spotify Clone built using HTML, CSS, and JavaScript. This project recreates the look and feel of Spotify, allowing users to browse songs, play music, control playback, and enjoy an intuitive music streaming interface.
 
-Features
+# Features
 🎵 Music playback functionality
 ⏯️ Play, pause, next, and previous controls
 📱 Responsive design for different screen sizes
