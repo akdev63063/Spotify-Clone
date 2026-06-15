@@ -21,4 +21,6 @@ Purpose
 This project was developed to enhance front-end development skills and gain hands-on experience in building interactive web applications with a real-world UI design.
 
 Feel free to customize it based on the features you've implemented.
-Author : Akash Kumar
+<br>
+
+# Author : Akash Kumar
